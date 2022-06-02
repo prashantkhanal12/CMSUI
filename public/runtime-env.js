@@ -1,0 +1,1 @@
+window.__RUNTIME_CONFIG__ = {"REACT_APP_API_URL":"https://cms.nicasialaghubitta.server247.info/framework/api","REACT_APP_BASE_URL":"https://cms.nicasialaghubitta.server247.info/framework"};

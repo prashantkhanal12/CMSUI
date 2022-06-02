@@ -1,0 +1,77 @@
+.link-group .rs-table-cell-content {
+    padding: 5px;
+}
+
+.rs-table-header-row-wrapper {
+    font-size: 14px;
+}
+
+.rs-check-tree {
+    max-height: 100% !important;
+    overflow-y: hidden;
+}
+
+.rs-modal-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rs-toggle-checked .rs-toggle-presentation {
+    background-color: #4CAF50;
+
+    &:hover {
+        background-color: darken(#4CAF50, 5%);
+    }
+}
+
+// .rs-toggle-presentation {
+//     background-color: #f44336;
+
+//     &:hover {
+//         background-color: darken(#f44336, 5%);
+//     }
+// }
+
+// .form-check.form-check-solid .form-check-input:checked {
+//     background-color: #2e4152;
+// }
+
+// .rs-input-group:focus-within,
+// .rs-input-group:not(.rs-input-group-disabled).rs-input-group-focus,
+// .rs-input-group:not(.rs-input-group-disabled):hover {
+//     border-color: #2e4152;
+// }
+
+.tox-tinymce {
+    z-index: 0;
+}
+
+// .rs-input:focus, .rs-input:hover:not(:disabled) {
+
+//     border-color: #2d4051;
+// }
+// .rs-pagination-btn.rs-pagination-btn-active {
+
+//     color: #2d4051;
+//     border: 1px solid #2d4051;
+// }
+// .rs-picker-default:not(.rs-picker-disabled) .rs-btn-active, .rs-picker-default:not(.rs-picker-disabled) .rs-btn:focus, .rs-picker-default:not(.rs-picker-disabled) .rs-btn:hover, .rs-picker-default:not(.rs-picker-disabled) .rs-picker-toggle-active, .rs-picker-default:not(.rs-picker-disabled) .rs-picker-toggle:focus, .rs-picker-default:not(.rs-picker-disabled) .rs-picker-toggle:hover {
+//     border-color: #2d4051;
+// }
+
+// .rs-picker-has-value .rs-btn .rs-picker-toggle-value, .rs-picker-has-value .rs-picker-toggle .rs-picker-toggle-value {
+//     color: #2d4051;
+// }
+
+// .rs-picker-select-menu-item.rs-picker-select-menu-item-focus, .rs-picker-select-menu-item:focus, .rs-picker-select-menu-item:hover {
+
+//     color: #2d4051;
+// }
+// .rs-picker-select-menu-item.rs-picker-select-menu-item-active {
+//     color: #2d4051;
+// }
+.datatable-image-cell > div {
+    padding:0 !important;
+    
+}

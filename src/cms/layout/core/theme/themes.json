@@ -1,0 +1,32 @@
+{
+  "data": {
+    "id": "T_001",
+    "name": "Nic Asia",
+    "primaryColor": "rgb(237, 27, 47)",
+    "colors": {
+      "text": "#000000",
+      "button": {
+        "text": "#FFFFFF",
+        "background": "#000000"
+      },
+      "link": {
+        "text": "rgb(237, 27, 47)"
+      }
+    },
+    "aside": {
+      "bgColor": "rgb(237, 27, 47)",
+      "textColor": "#ffffff",
+      "textHoverColor": "#ffffff",
+      "iconColor": "#ffffff"
+    },
+    "header": {
+      "bgColor": "rgb(237, 27, 47)"
+    },
+    "button": {
+      "primaryBgColor": "rgb(237, 27, 47)",
+      "primaryTextColor": "white",
+      "secondaryBgColor": "green",
+      "secondaryTextColor": "white"
+    }
+  }
+}

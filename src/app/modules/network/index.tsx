@@ -1,0 +1,5 @@
+export * as branch from './components/branch'
+export * as atm from './components/atm'
+export * as branchless from './components/branchless'
+export * as operationIncharge from './components/operationIncharge'
+export * as branchManager from 'src/app/modules/network/components/branchManager'
